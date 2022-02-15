@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/TheUltronX/StringSessiongenerator",
+  "repository": "https://github.com/CrushMishu/StringSessionGenerator",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
