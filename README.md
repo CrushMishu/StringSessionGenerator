@@ -28,7 +28,7 @@
 - `MUST_JOIN` - Username/ID of your telegram channel/group.
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheUltronX/StringSessionGenerator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CrushMishu/StringSessionGenerator)
 
 ## Support Group:
 <a href="https://t.me/UltronXsupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
